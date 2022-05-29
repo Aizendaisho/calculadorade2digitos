@@ -82,5 +82,5 @@ span{
 
 span::after{
     width: 5px;
-    color: black;
+    color: rgb(20, 19, 19);
 }

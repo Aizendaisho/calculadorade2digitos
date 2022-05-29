@@ -142,7 +142,7 @@ console.log(sumEl)
 
 function sumar() {
     let sumado = numero1+numero2
-    sumEl.textContent= `la suma de ${numero1} y ${numero2} es ${sumado}`
+    sumEl.textContent= `la suma de ${numero1} y ${numero2} es ${sumado} `
 
 }
 function restar() {
